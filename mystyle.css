@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight:normal;
+  font-style:normal;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  border-bottom: 2px solid blue;
+  background-color: lightgrey;
+}
